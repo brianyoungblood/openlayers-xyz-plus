@@ -1,1 +1,4 @@
 Takes the xyz layer type already implemented in the Openlayers Drupal module and adds extra configurations. For example, it lets you add a xyz layer as a overlay or as a base layer.
+
+Right now, I'm testing this module with GeoServer, where the base url template would be:
+/geoserver/gwc/service/gmaps?LAYERS=[geoserverlayername]11&zoom=${z}&x=${x}&y=${y}&format=image/png
