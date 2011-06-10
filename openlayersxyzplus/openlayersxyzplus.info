@@ -1,0 +1,5 @@
+name = OpenLayer xyz plus -  A custom xyz layer
+description = Using the stock xyz layer defined in the Openlayer module, this just adds a few extra options
+core = 6.x
+dependencies[] = openlayers
+
