@@ -29,7 +29,7 @@ class openlayers_layer_type_openlayersxyzplus extends openlayers_layer_type {
       'serverResolutions' => openlayers_get_resolutions('900913'),
       'maxExtent' => openlayers_get_extent('900913'),
       'layer_handler' => 'openlayersxyzplus',
-      'baselayer' => TRUE
+      'baselayer' => FALSE
     );
   }
 
