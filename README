@@ -1,1 +1,1 @@
-Takes the xyz layer type in the Openlayers drupal module and adds extra configurations
+Takes the xyz layer type already implemented in the Openlayers Drupal module and adds extra configurations. For example, it lets you add a xyz layer as a overlay or as a base layer.
